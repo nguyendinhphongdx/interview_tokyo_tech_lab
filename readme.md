@@ -1,6 +1,8 @@
 ## Setup nodejs eviroment guide from [https://nodejs.org/en]
 
-## 1. Phỏng đoán thứ tự ghi bàn
+## 1. Phỏng đoán thứ tự ghi bàn (tổ hợp)
+
+
 ```
 Tokyo Techies và Tokyo Tech Lab tổ chức giao hữu bóng đá. Anh em các miền rất hào hứng đến xem và cổ vũ.
 Có mỗi anh TùngPD do mải code nên quên giờ, đến khi nhớ ra và chạy đến thì trận đấu đã diễn ra hết hiệp 1. Tỉ số lúc này là TT x-y TTLab.
@@ -12,7 +14,7 @@ chương trình đếm số cách
 node 1.guess_score.js
 ```
 
-## 2. Qua màn Diablo II.
+## 2. Qua màn Diablo II. (logic)
 ```bash
 node 2.amount_gold.js
 ```
@@ -26,7 +28,7 @@ A single line with 4 integers m , d , k , c , separated by a space.
 
 1 dòng duy nhất, gồm 4 số m , d , k , c theo thứ tự đó, cách nhau bởi dấu cách.
 ```
-## 3. Cân bằng ngoặc
+## 3. Cân bằng ngoặc (đối xứng)
 ```bash
 node 3.bracket_balance.js
 ```
